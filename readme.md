@@ -11,6 +11,8 @@ The Wild Oasis is an internal hotel management system.
  * Advanced compound component pattern
  * Authentication
  * Recharts
+ * Toasts (Notifications)
+ * React Error Boundary
  * Vite
 
 ## Features
