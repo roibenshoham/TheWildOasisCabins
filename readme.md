@@ -8,7 +8,7 @@ The Wild Oasis is an internal hotel management system.
  * Styled Components
  * React Hook Form
  * Supabase
- * Advanced compound component pattern
+ * Advanced Compound Component
  * Authentication
  * Recharts
  * Toasts (Notifications)
