@@ -2,7 +2,7 @@
 
 The Wild Oasis is an internal hotel management system.
 
-**Technologies:**
+**Technologies & Libraries:**
  * React Query
  * React Router
  * Styled Components
